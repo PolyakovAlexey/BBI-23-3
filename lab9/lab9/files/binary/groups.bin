@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group xsi:type="GroupA">
+    <Name>Группа A</Name>
+    <Students>
+      <Student>
+        <Name>Студент 1 Группа 1</Name>
+        <ExamScores>
+          <double>80</double>
+          <double>75</double>
+          <double>90</double>
+          <double>85</double>
+          <double>95</double>
+        </ExamScores>
+        <AverageScore>85</AverageScore>
+      </Student>
+      <Student>
+        <Name>Студент 2 Группа 1</Name>
+        <ExamScores>
+          <double>65</double>
+          <double>70</double>
+          <double>75</double>
+          <double>80</double>
+          <double>85</double>
+        </ExamScores>
+        <AverageScore>75</AverageScore>
+      </Student>
+      <Student>
+        <Name>Студент 3 Группа 1</Name>
+        <ExamScores>
+          <double>85</double>
+          <double>90</double>
+          <double>95</double>
+          <double>88</double>
+          <double>92</double>
+        </ExamScores>
+        <AverageScore>90</AverageScore>
+      </Student>
+    </Students>
+    <AverageScore>83.33333333333333</AverageScore>
+  </Group>
+  <Group xsi:type="GroupB">
+    <Name>Группа B</Name>
+    <Students>
+      <Student>
+        <Name>Студент 1 Группа 2</Name>
+        <ExamScores>
+          <double>75</double>
+          <double>72</double>
+          <double>75</double>
+          <double>84</double>
+          <double>89</double>
+        </ExamScores>
+        <AverageScore>79</AverageScore>
+      </Student>
+      <Student>
+        <Name>Студент 2 Группа 2</Name>
+        <ExamScores>
+          <double>70</double>
+          <double>92</double>
+          <double>82</double>
+          <double>76</double>
+          <double>95</double>
+        </ExamScores>
+        <AverageScore>83</AverageScore>
+      </Student>
+      <Student>
+        <Name>Студент 3 Группа 2</Name>
+        <ExamScores>
+          <double>88</double>
+          <double>84</double>
+          <double>92</double>
+          <double>79</double>
+          <double>93</double>
+        </ExamScores>
+        <AverageScore>87.2</AverageScore>
+      </Student>
+    </Students>
+    <AverageScore>83.06666666666666</AverageScore>
+  </Group>
+  <Group xsi:type="GroupC">
+    <Name>Группа C</Name>
+    <Students>
+      <Student>
+        <Name>Студент 1 Группа 3</Name>
+        <ExamScores>
+          <double>68</double>
+          <double>76</double>
+          <double>70</double>
+          <double>85</double>
+          <double>82</double>
+        </ExamScores>
+        <AverageScore>76.2</AverageScore>
+      </Student>
+      <Student>
+        <Name>Студент 2 Группа 3</Name>
+        <ExamScores>
+          <double>79</double>
+          <double>83</double>
+          <double>86</double>
+          <double>85</double>
+          <double>90</double>
+        </ExamScores>
+        <AverageScore>84.6</AverageScore>
+      </Student>
+      <Student>
+        <Name>Студент 3 Группа 3</Name>
+        <ExamScores>
+          <double>82</double>
+          <double>78</double>
+          <double>85</double>
+          <double>89</double>
+          <double>91</double>
+        </ExamScores>
+        <AverageScore>85</AverageScore>
+      </Student>
+    </Students>
+    <AverageScore>81.93333333333334</AverageScore>
+  </Group>
+</ArrayOfGroup>

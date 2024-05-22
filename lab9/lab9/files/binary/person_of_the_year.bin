@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonOfTheYear xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PersonOfTheYear>
+    <Name>Кандидат D</Name>
+    <Votes>120</Votes>
+  </PersonOfTheYear>
+  <PersonOfTheYear>
+    <Name>Кандидат A</Name>
+    <Votes>100</Votes>
+  </PersonOfTheYear>
+  <PersonOfTheYear>
+    <Name>Кандидат E</Name>
+    <Votes>90</Votes>
+  </PersonOfTheYear>
+  <PersonOfTheYear>
+    <Name>Кандидат B</Name>
+    <Votes>80</Votes>
+  </PersonOfTheYear>
+  <PersonOfTheYear>
+    <Name>Кандидат C</Name>
+    <Votes>75</Votes>
+  </PersonOfTheYear>
+</ArrayOfPersonOfTheYear>

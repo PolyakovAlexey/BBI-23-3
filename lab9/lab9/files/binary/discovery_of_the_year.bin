@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDiscoveryOfTheYear xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DiscoveryOfTheYear>
+    <Name>Лекарство от рака </Name>
+    <Votes>110</Votes>
+  </DiscoveryOfTheYear>
+  <DiscoveryOfTheYear>
+    <Name>Новое вещество    </Name>
+    <Votes>75</Votes>
+  </DiscoveryOfTheYear>
+  <DiscoveryOfTheYear>
+    <Name>Новый остров      </Name>
+    <Votes>65</Votes>
+  </DiscoveryOfTheYear>
+  <DiscoveryOfTheYear>
+    <Name>Новый вид энергии </Name>
+    <Votes>50</Votes>
+  </DiscoveryOfTheYear>
+  <DiscoveryOfTheYear>
+    <Name>ИИ                </Name>
+    <Votes>25</Votes>
+  </DiscoveryOfTheYear>
+</ArrayOfDiscoveryOfTheYear>
